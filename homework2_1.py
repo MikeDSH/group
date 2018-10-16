@@ -9,7 +9,8 @@ class Cl(object):
 		else:
 			return cls.__instance
 
-
+#hhhhhhhhhhhhhhh
+g=1
 a=Cl()
 b=Cl()
 print(id(a))
